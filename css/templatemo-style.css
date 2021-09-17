@@ -399,6 +399,9 @@ h1,h2,h3,h4,h5
         text-align: center;
         margin-right: 20px;
     }
+#contact a{
+    color: #999;
+}
 #contact .form-control
     {
         background: transparent;
@@ -468,3 +471,26 @@ footer hr
         color: #D43F52;
     }
 /* end social icon */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 500px){
+#home
+	{
+        background: linear-gradient(rgba(255, 0, 76, 0.7),rgb(0, 0, 0)), url('../images/bg/bg4.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+	}
+} 
