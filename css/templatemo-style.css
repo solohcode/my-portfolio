@@ -72,7 +72,7 @@ h1,h2,h3,h4,h5,h6
     margin: 1%;
 }
 
-.btn-about{
+.btn-about, #btn-about{
     color: white;
     background: none;
     font-size: medium;
@@ -82,16 +82,16 @@ h1,h2,h3,h4,h5,h6
     margin: 20px inherit;
     border-radius: 5px;
 }
-.btn-about:visited{
-    color: white;
-    text-decoration: none;
-}
-.btn-about:hover{
+.btn-about:hover, #btn-about:hover{
     color:  white;
     text-decoration: none;
     background-color: #D43F52;
     border-color: #D43F52;
     transition: 1s;
+}
+.btn-about:visited, #btn-about:visited{
+    color: white;
+    text-decoration: none;
 }
 /* end miscellenious*/
 
