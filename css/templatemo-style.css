@@ -220,13 +220,13 @@ a.btn-about:visited, #btn-about:visited{
         padding-top: 120px;
         padding-bottom: 140px;
     }
-#home h1
+#home .main-text
     {
         border: 2px solid #D43F52;
         color: #D43F52;
         display: inline-block;
         letter-spacing: 6px;
-        padding: 25px 35px;
+        padding: 20px 30px;
         margin: 30px 0;
     }
 #home h2
