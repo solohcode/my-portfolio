@@ -2,6 +2,7 @@
 #fullpage{
   /* opacity: 0; */
   display: none;
+  /* visibility: hidden; */
 }
 
 .loader{
@@ -17,7 +18,7 @@
   color: #f0f0d0;
   background-image: linear-gradient( #ff416c,#eb374f,#ff4b2b);
   /* background-image: linear-gradient( #ee0979,#ff6a00); */
-  animation: fadeout 11s;
+  animation: fadeout 10s;
   animation-fill-mode: forwards;
 }
 .loader .loader-text{
