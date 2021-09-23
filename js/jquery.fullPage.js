@@ -100,7 +100,7 @@
             easingcss3: 'ease',
             loopBottom: false,
             loopTop: false,
-            loopHorizontal: false,
+            loopHorizontal: true,
             continuousVertical: false,
             normalScrollElements: null,
             scrollOverflow: false,
